@@ -21,6 +21,7 @@ namespace MentionIt.Controllers
         public IActionResult Index()
         {
             return View();
+            //Hello
         }
 
         public IActionResult Privacy()
